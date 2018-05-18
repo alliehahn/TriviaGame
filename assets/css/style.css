@@ -11,7 +11,6 @@ body {
 
 #trivia {
     background-color: white;
-    text-align: center;
     margin-left: auto;
     margin-right: auto;
     width: 600px;
@@ -26,5 +25,10 @@ body {
 .changing {
     margin-left: auto;
     margin-right: auto;
+}
+
+.pictureSize {
+    height: 200px;
+    width: 370px;
 }
 
