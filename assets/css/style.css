@@ -1,19 +1,30 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 20px;
-    text-align:center;
 }
 
-img {
+.logo {
     height: 101px;
     width: 300px;
-    margin-left: 40px;
+    margin-bottom: 40px;
 }
 
-.container {
+#trivia {
     background-color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 550px;
+    padding: 10px;
 }
 
 .main {
     margin-left: 60px;
 }
+
+.changing {
+    margin-left: auto;
+    margin-right: auto;
+}
+
